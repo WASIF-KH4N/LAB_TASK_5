@@ -4,7 +4,7 @@ Dosseg
 .model small
 .stack 100h
 .data
-var_1 db 'INPUT 5$'
+var_1 db 'INPUT 5$'                           //Define varaiables
 var_2 db 'YOUR INPUT IS GREATER THAN 5$'
 var_3 db 'YOUR INPUT IS LESSER THAN 5$'
 
