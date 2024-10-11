@@ -1,6 +1,6 @@
 ;WRITE A PROGRAM USING JUMP CONDITIONS.
 
-Dosseg
+dosseg
 .model small
 .stack 100h
 .data
